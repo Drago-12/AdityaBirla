@@ -1,0 +1,1004 @@
+@media screen and (max-width:1270px) {
+    .details-container {
+        justify-content: space-evenly;
+    }
+
+    .details h1 {
+        font-size: 33px;
+    }
+
+    .details p {
+        font-size: 16px;
+
+    }
+
+    .details-img img {
+        width: 460px;
+    }
+
+    .details {
+        width: 470px;
+    }
+
+    .detaiks-btn a {
+        padding: 18px 18px;
+        margin-left: 0;
+    }
+
+    .detaiks-btn {
+        margin-top: 33px;
+    }
+
+    .burger-collapase {
+        width: 640px;
+    }
+
+    /* .women {} */
+
+    .wimg img {
+        width: 233px;
+    }
+
+    .wimg h5 {
+        font-size: 18px;
+    }
+
+    .wimg p {
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    .sec-ate-purchase-pack {
+        width: 88%;
+    }
+}
+
+@media screen and (max-width:1140px) {
+    .details-img img {
+        width: 460px;
+    }
+
+    .details {
+        width: 470px;
+    }
+
+    .details p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    /* .women {} */
+
+    .wimg img {
+        width: 170px;
+    }
+
+    .wimg h5 {
+        font-size: 15px;
+    }
+
+    .wimg p {
+        font-size: 11px;
+    }
+
+    .women-img {
+        width: 80%;
+        margin: auto;
+    }
+
+    .women {
+        width: 105%;
+    }
+
+    .women h4 {
+        font-size: 48px;
+    }
+
+    .women p {
+        font-size: 14px;
+    }
+
+    .form-input-box input {
+        width: 131px;
+    }
+
+    .form-input-box select {
+        width: 131px;
+    }
+
+    .eleven-img img {
+        width: 399px;
+        padding-top: 28px;
+    }
+
+    .eleven-top-hadding h5 {
+        font-size: 30px;
+    }
+
+    .details-Hadding1 {
+        width: 285px;
+    }
+
+    .details-Hadding {
+        width: 285px;
+
+    }
+
+    .sex-six-box img {
+        width: 160px;
+    }
+
+    .sex-six-box h5 {
+        font-size: 15px;
+    }
+
+}
+
+@media screen and (max-width:1100px) {
+    .paid-services {
+        width: 300px;
+    }
+
+    .paid-services h5 {
+        font-size: 15px;
+    }
+
+    .paid-services h2 {
+        font-size: 19px;
+
+    }
+
+    .paid-services p {
+
+        font-size: 12px;
+
+    }
+
+    .paid-services a {
+        width: 100px;
+        height: 38px;
+        font-size: 16px;
+
+    }
+
+    .service1 {
+        width: 165px;
+        height: 138px;
+        /* margin: 15px; */
+        padding: 26px 0 0 20px;
+        /* border: 2px solid rgba(9, 0, 9, 0) */
+    }
+
+    .service1 h3 {
+        font-size: 16px;
+    }
+
+    .service1 p {
+        font-size: 15px;
+
+    }
+}
+
+@media screen and (max-width:1070px) {
+    .sec-ate-purchase-pack {
+        width: 96%;
+    }
+
+    .box h4 {
+        font-size: 22px;
+    }
+}
+
+@media screen and (max-width:1000px) {
+
+    .burger-img {
+        display: block;
+    }
+
+    .burger-collapase {
+        text-align: end;
+        position: absolute;
+        z-index: 10000;
+        height: 400px;
+        top: 71px;
+        right: 0;
+        width: 186px;
+        border: 2px solid white;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: #1732A4;
+        transition: 1s all ease;
+        transform: translateX(0);
+    }
+
+    .burger-collapase-display {
+        /* transform: translateX(186px); */
+        display: none;
+    }
+
+    /* .burger-collapase-transition {} */
+
+    .nav-list-container ul {
+        display: block;
+    }
+
+    .nav-list-container ul li {
+        padding: 10px 0;
+    }
+
+    .nav-social-media-icon ul {
+        display: block;
+    }
+
+    .nav-social-media-icon ul li {
+        padding: 10px 0;
+    }
+
+    /* .benefits-container {
+        display: block;
+    } */
+
+   
+
+    /* .services {
+        display: block;
+        width: 89%;
+        margin: auto;
+    } */
+
+    /* .service1 {
+        width: 100%;
+    } */
+
+    /* .sec-four-container {
+        display: block;
+    } */
+
+    .sec-four-box {
+        width: 100%;
+        margin-bottom: 2px;
+    }
+
+    .women {
+        width: 110%;
+    }
+
+    .women h4 {
+        font-size: 48px;
+    }
+
+    .women p {
+        font-size: 14px;
+    }
+}
+
+
+
+
+@media screen and (max-width:950px) {
+    .details-img img {
+        width: 384px;
+    }
+
+    .details {
+        width: 322px;
+    }
+
+    .details p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .details h1 {
+        font-size: 30px;
+        line-height: 44px;
+        font-weight: 500;
+    }
+
+    .details-container {
+        padding-bottom: 80px;
+    }
+
+    .sec-ate-purchase-pack {
+        width: 103%;
+    }
+
+}
+
+@media screen and (max-width:900px) {
+    .women {
+        width: 114%;
+    }
+
+    .women h4 {
+        font-size: 35px;
+    }
+
+    .women p {
+        font-size: 10px;
+    }
+
+    .standard-pack {
+        width: 223px;
+    }
+
+    .standard-pack h4 {
+        font-size: 40px;
+    }
+
+    .standard-pack h5 {
+        font-size: 22px;
+    }
+
+    .pack-para {
+        font-size: 14px;
+    }
+
+    .silver-pack h4 {
+        font-size: 40px;
+
+    }
+
+    .silver-pack h5 {
+        font-size: 22px;
+
+    }
+
+    .about-us h2 {
+        font-size: 35px;
+    }
+
+    .about-box1 {
+        width: 348px;
+    }
+
+    .about-box1 h4 {
+        font-size: 25px;
+    }
+
+    .about-box1 p {
+        font-size: 12px;
+    }
+
+    .eleven-img img {
+        width: 340px;
+        padding-top: 28px;
+    }
+
+    .eleven-top-hadding h5 {
+        font-size: 30px;
+    }
+
+    .details-Hadding1 {
+        width: 230px;
+        height: 70px;
+    }
+
+    .details-Hadding {
+        width: 230px;
+        height: 70px;
+
+    }
+
+    .details-Hadding h2 {
+        font-size: 14px;
+
+    }
+
+    .details-Hadding p {
+        padding-top: 4px;
+        font-size: 13px;
+    }
+
+    .details-Hadding1 h2 {
+        font-size: 14px;
+
+    }
+
+    .details-Hadding1 p {
+        padding-top: 4px;
+        font-size: 13px;
+    }
+
+    .box h4 {
+        font-size: 18px;
+    }
+
+    .box p {
+        font-size: 13px;
+    }
+
+
+    .sex-six-box{
+        width: 165px;
+    }
+
+    .sex-six-box h4{
+        font-size: 14px;
+    }
+    .sex-six-box h5{
+        font-size: 13px;
+    }
+    .sex-six-box img{
+        width: 150px;
+    }
+    .sex-six-box p{
+        font-size: 13px;
+
+    }
+}
+
+/* @media screen and (max-width:890px) {
+    
+    
+} */
+
+@media screen and (max-width:890px) {
+    .service1 {
+        margin: 10px 10px;
+    }
+
+    .service1 {
+        width: 150px;
+    }
+
+    .service1 p {
+        font-size: 11px;
+
+
+    }
+}
+
+
+
+@media screen and (max-width:840px) {
+
+    .sec-six-container {
+        display: block;
+
+    }
+
+    .sex-six-box {
+        margin: auto;
+        width: 92%;
+        margin-bottom: 20px;
+    }
+
+    .sex-six-box img {
+        width: 80%;
+    }
+
+
+
+
+
+
+
+    .sec-four-container {
+        display: block;
+    }
+    
+    .sec-four-box{
+        
+        width: 86%;
+        /* margin-bottom: 2px; */
+        margin-left: 9px;
+    }
+
+
+    .details-container {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .details {
+        width: 559px;
+    }
+
+    .details-img img {
+        width: 553px;
+        padding: 0;
+    }
+
+    .details-img {
+        margin-top: 80px;
+
+    }
+
+    .details h1 {
+        font-size: 23px;
+        padding: 10px 0;
+    }
+
+    .women-img {
+        display: block;
+    }
+
+    .wimg img {
+        width: 100%;
+    }
+
+    .wimg {
+        margin-bottom: 40px;
+    }
+
+    .sec-ate-purchase-pack {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .standard-pack {
+        width: 87%;
+    }
+
+    .silver-pack {
+        width: 87%;
+
+    }
+
+    .sec-nine-container {
+        flex-direction: column;
+    }
+
+    .form-input-box input {
+        width: 23vw;
+    }
+
+    .form-input-box select {
+        width: 23vw;
+    }
+
+
+
+
+
+
+
+    .benefits-container {
+        display: block;
+    }
+
+    .services {
+        display: block;
+    }
+
+    .paid-services {
+        /* width: 100%; */
+        width: 86%;
+    }
+
+    /* .paid-services {
+        width: 300px;
+    } */
+
+    .paid-services h5 {
+        font-size: 15px;
+    }
+
+    .paid-services h2 {
+        font-size: 21px;
+
+    }
+
+    .paid-services p {
+        font-size: 15px;
+        color: #acabab;
+    }
+
+    .paid-services a {
+        width: 100px;
+        height: 38px;
+        font-size: 16px;
+
+    }
+
+    .service1 {
+        /* width: 165px; */
+        width: 86%;
+        height: 138px;
+        /* margin: 15px; */
+        padding: 26px 0 0 20px;
+        /* border: 1px solid #8080 */
+    }
+
+    .service1 h3 {
+        font-size: 16px;
+    }
+
+    .service1 p {
+        font-size: 15px;
+
+    }
+
+
+
+
+
+    /* sec-ten */
+
+    .about-us h2 {
+        font-size: 35px;
+    }
+
+    .about-box1 {
+        margin-bottom: 81px;
+    }
+
+    .about-box1 h4 {
+        font-size: 25px;
+    }
+
+    .about-box1 p {
+        font-size: 12px;
+    }
+
+    .about-us-details {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .about-a a {
+        font-size: 14px;
+        width: 118px;
+        height: 47px;
+    }
+
+    .about-box2 a {
+        font-size: 14px;
+        width: 118px;
+        height: 47px;
+    }
+
+    .about-box2 p {
+        font-size: 15px;
+    }
+
+    .about-box2 {
+        margin-left: 0;
+    }
+
+    .sec-twel-hadding h5 {
+        font-size: 25px;
+    }
+
+
+
+
+
+    /* sec-eleven */
+    .sec-eleven-detalis-contaier {
+        flex-direction: column;
+        align-items: center;
+    }
+    .eleven-top-hadding h5 {
+        font-size: 25px;
+    }
+
+
+    
+
+
+    /* sec twel */
+
+    .jobs {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .box {
+        width: 80%;
+    }
+
+    .jobs2 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .box {
+        width: 80%;
+    }
+
+
+}
+
+
+
+
+
+@media screen and (max-width:780px) {
+    .women {
+        width: 122%;
+    }
+
+    .women h4 {
+        font-size: 32px;
+    }
+
+    .women p {
+        font-size: 9px;
+        padding-right: 18px;
+    }
+}
+
+@media screen and (max-width:720px) {
+    .footer-container {
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+    .footer-navigation {
+        align-items: center;
+    }
+
+    .location {
+        align-items: center;
+    }
+
+    .about-company {
+        align-items: center;
+    }
+}
+
+@media screen and (max-width:666px) {
+
+
+    .details-container {
+        padding-bottom: 24px;
+    }
+
+    .details {
+        width: 400px;
+    }
+
+    .details-img img {
+        width: 450px;
+        padding: 0;
+    }
+
+    .details-img {
+        margin-top: 80px;
+
+    }
+
+    .details h1 {
+        font-size: 23px;
+        padding: 10px 0;
+    }
+
+    .sec-six-container {
+        display: block;
+
+    }
+
+    /* .sex-six-box {
+        margin: auto;
+        width: 92%;
+        margin-bottom: 20px;
+    }
+
+    .sex-six-box img {
+        width: 80%;
+    } */
+
+    .women {
+        width: 131%;
+    }
+
+    .women h4 {
+        font-size: 28px;
+    }
+
+    .women p {
+        font-size: 8px;
+    }
+
+
+    /* .about-us h2 {
+        font-size: 35px;
+    }
+
+    .about-box1 {
+        margin-bottom: 81px;
+    }
+
+    .about-box1 h4 {
+        font-size: 25px;
+    }
+
+    .about-box1 p {
+        font-size: 12px;
+    }
+
+    .about-us-details {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .about-a a {
+        font-size: 14px;
+        width: 118px;
+        height: 47px;
+    }
+
+    .about-box2 a {
+        font-size: 14px;
+        width: 118px;
+        height: 47px;
+    }
+
+    .about-box2 p {
+        font-size: 15px;
+    }
+
+    .about-box2 {
+        margin-left: 0;
+    }
+
+    .sec-twel-hadding h5 {
+        font-size: 25px;
+    } */
+}
+
+@media screen and (max-width:740px) {
+    /* .sec-eleven-detalis-contaier {
+        flex-direction: column;
+        align-items: center;
+    } */
+
+    /* .eleven-top-hadding h5 {
+        font-size: 25px;
+    } */
+
+    /* .jobs {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .box {
+        width: 80%;
+    }
+
+    .jobs2 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .box {
+        width: 80%;
+    } */
+}
+
+@media screen and (max-width:550px) {
+    .sec-five-container p {
+        font-size: 25px;
+    }
+
+    .sec-five-container h4 {
+        font-size: 28px;
+    }
+
+    .women {
+        width: 140%;
+    }
+
+    .women h4 {
+        font-size: 28px;
+    }
+
+    .women p {
+        font-size: 8px;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .women {
+        width: 152%;
+    }
+
+    .form-container p {
+        font-size: 14px;
+    }
+
+    .form-container h5 {
+        /* text-align: center; */
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width:480px) {
+
+
+    .details-container {
+        padding-bottom: 24px;
+    }
+
+    .details {
+        width: 300px;
+    }
+
+    .details-img img {
+        width: 300px;
+        padding: 0;
+    }
+
+    .details-img {
+        margin-top: 80px;
+
+    }
+
+    .details h1 {
+        font-size: 20px;
+        padding: 10px 0;
+    }
+
+    .details p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .eleven-top-hadding h5 {
+        font-size: 18px;
+    }
+}
+
+
+@media screen and (max-width:450px) {
+    .women {
+        width: 161%;
+    }
+}
+
+@media screen and (max-width:430px) {
+    .women {
+        width: 170%;
+    }
+}
+
+@media screen and (max-width:410px) {
+    .women {
+        width: 175%;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .women {
+        width: 178%;
+    }
+}
+
+@media screen and (max-width:380px) {
+    .women {
+        width: 187%;
+    }
+    .location h4 {
+        font-size: 14px;
+    }
+    .about-company p {
+        font-size: 11px;
+        /* color: #92999F; */
+        display: inline-block;
+        width: 90%;
+        text-align: center;
+    }
+    .location{
+        width: auto;
+    }
+    .footer-navigation{
+        width: auto;
+    }
+    .about-company{
+        width: auto;
+    }
+    .eleven-img img {
+        width: 100%;
+    }
+}

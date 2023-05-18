@@ -1,0 +1,390 @@
+.details-container{
+    overflow: hidden;
+}
+
+.details{
+    transform: translateY(150px);
+    transition: 1s all ease-in;
+
+}
+
+.detailsShow{
+    transform: translateY(6px);
+}
+
+.details-img{
+    transform: translateY(-150px);
+    transition: 1s all ease-in;
+}
+
+.show{
+    transform: translateY(-6px);
+}
+
+
+.benefits-container{
+    transform: rotateY(150deg);
+    transition: 1s all ease-in;
+    visibility: hidden;
+}
+
+.benefits-container-rotate{
+    transform: rotateY(0deg);
+    visibility: visible;
+}
+
+
+
+.sec-four-container{
+    transform: rotateX(90deg);
+    transition: 1s all;
+}
+
+.sec-four-container-show{
+    transform: rotateX(0deg);
+
+}
+
+
+
+.sec-five-para{
+    transform: translate(-202px);
+    visibility: hidden;
+    transition: 0.5s all ease-in;
+
+}
+
+.sec-five-para-show{
+    visibility: visible;
+    transform: translateX(0px);
+}
+
+.sec-five-hadding{
+    transform: translate(-202px);
+    visibility: hidden;
+    transition: 1s all ease-in;
+
+}
+
+.sec-five-hadding-show{
+    visibility: visible;
+    transform: translateX(0px);
+}
+
+
+.women{
+    /* transform: translateX(224px); */
+    visibility: hidden;
+    transition: 1s all ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: end;
+}
+
+.women-show{
+    transform: translateX(-300px);
+    visibility: visible;
+}
+
+
+.women-img1{
+    transform: rotateX(90deg);
+    transition: 2s all ease;
+}
+
+.wing-show{
+    transform: rotateY(0deg);
+    visibility: visible;
+}
+
+
+.sec-ate-hadding-container{
+    transform: translateY(-100px);
+    visibility: hidden;
+    transition: 1s all ease;
+}
+
+.sec-ate-hadding-container-show{
+    transform: translateY(0px);
+    visibility: visible;
+
+}
+
+
+.slide-right1{
+    transform: translateX(-100px);
+    visibility: hidden;
+    transition: 1s all ease;
+}
+
+.slide-right1-show{
+    transform: translateX(0px);
+    visibility: visible;
+}
+
+
+.slide-right2{
+    transform: translateX(-100px);
+    visibility: hidden;
+    transition: 1s all ease;
+}
+
+.slide-right2-show{
+    transform: translateX(0px);
+    visibility: visible;
+}
+    
+
+.slide-right3{
+    transform: translateX(100px);
+    visibility: hidden;
+    transition: 1s all ease;
+}
+
+.slide-right3-show{
+    transform: translateX(0px);
+    visibility: visible;
+}
+
+.sec-nine-details-container{
+    transform: translateX(-87px);
+    visibility: hidden;
+    transition: 1s all ease;
+
+}
+
+.sec-nine-details-container-show{
+    transform: translate(0px);
+    visibility: visible;
+
+}
+
+
+
+.form-container{
+    transform: rotateX(-90deg);
+    visibility: hidden;
+    transition: 1s all ease;
+}
+
+
+.form-container-show{
+    transform: rotateX(0deg);
+    visibility: visible;
+}
+
+.about-us{
+    transform: translateY(57px);
+    visibility: hidden;
+    transition: 1s all ease;
+}
+
+.about-us-show{
+    transform: translate(0px);
+    visibility: visible;
+}
+
+
+.about-box1{
+    transform: translateX(70px);
+    visibility: hidden;
+    transition: 1s all ease;
+}
+
+.about-box1-show{
+    transform:translateX(0px) ;
+    visibility: visible;
+}
+
+
+
+
+.about-box2{
+    transform: translateX(-70px);
+    visibility: hidden;
+    transition: 1s all ease;
+}
+
+.about-box2-show{
+    transform:translateX(0px) ;
+    visibility: visible;
+}
+
+.eleven-top-hadding{
+    transform: translateY(55px);
+    visibility: hidden;
+    transition: 1s all ease ;
+}
+
+.eleven-top-hadding-show{
+    transform: translateY(0px);
+    visibility: visible;
+}
+
+
+
+.eleven-img{
+    transform: rotateY(90deg);
+    visibility: hidden;
+    transition: 2s all ease;
+}
+
+.eleven-img-show{
+    transform: rotateY(0deg);
+    visibility: visible;
+}
+
+
+.details-Hadding1{
+    transform: translateX(86px);
+    visibility: hidden;
+    transition: 1s all ease;
+}   
+
+
+
+.details-Hadding1-show{
+    transform: translateX(0px);
+    visibility: visible;
+
+}
+
+.details-Hadding{
+    transform: translateX(86px);
+    visibility: hidden;
+    transition: 2s all ease;
+}
+
+
+.details-Hadding-show{
+    transform: translateX(0px);
+    visibility: visible;
+
+}
+
+
+
+
+
+.details-Hadding2{
+    transform: translateX(86px);
+    visibility: hidden;
+    transition: 2.5s all ease;
+}
+
+
+.details-Hadding2-show{
+    transform: translateX(0px);
+    visibility: visible;
+
+}
+
+
+
+.sec-twel-hadding{
+    transform: translateX(-131px);
+    visibility: hidden;
+    transition: 1s all ease;
+}
+
+.sec-twel-hadding-show{
+    transform: translateX(0px);
+    visibility: visible;
+
+}
+
+
+
+
+.jobs{
+    transform: rotateX(84deg);
+    visibility: hidden;
+    transition: 1.5s all ease;
+}
+
+.jobs-show{
+    transform: rotateX(0deg);
+    visibility: visible;
+}
+
+.jobs2{
+    transform: rotateX(84deg);
+    visibility: hidden;
+    transition: 1.5s all ease;
+}
+
+.jobs2-show{
+    transform: rotateX(0deg);
+    visibility: visible;
+}
+
+
+
+
+
+
+
+
+
+.wimg1{
+    transform: rotateX(90deg);
+    transition: 2s all ease;
+}
+
+.wing1-show{
+    transform: rotateY(0deg);
+    visibility: visible;
+}
+
+
+.wimg2{
+    transform: rotateX(90deg);
+    transition: 2s all ease;
+}
+
+.wing2-show{
+    transform: rotateY(0deg);
+    visibility: visible;
+}
+
+.wimg3{
+    transform: rotateX(90deg);
+    transition: 2s all ease;
+}
+
+.wing3-show{
+    transform: rotateY(0deg);
+    visibility: visible;
+}
+
+.wimg4{
+    transform: rotateX(90deg);
+    transition: 2s all ease;
+}
+
+.wing4-show{
+    transform: rotateY(0deg);
+    visibility: visible;
+}
+
+
+
+
+
+
+
+
+.b{
+    transform: rotateX(84deg);
+    visibility: hidden;
+    transition: 2s all ease;  
+}
+
+
+.box-show{
+    transform: rotateX(0deg);
+    visibility: visible;
+    /* background-color: white; */
+} 
+

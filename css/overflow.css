@@ -1,0 +1,47 @@
+hr{
+    overflow: hidden;
+}
+
+.navbar-sec{
+    overflow: hidden;
+}
+.navbar{
+    overflow: hidden;
+}
+
+.sec-saven-container{
+    overflow: hidden;
+}
+
+.about-box2{
+    overflow: hidden;
+}
+
+.about-us-details{
+    overflow: hidden;
+}
+
+.sec-ate-purchase-pack{
+    overflow: hidden;
+}
+
+.sec-six-container{
+    overflow: hidden;
+}
+
+.about-company{
+    overflow: hidden;
+}
+
+.elaven-details-box{
+    overflow: hidden;
+}
+
+.footer-container{
+    overflow: hidden;
+    
+}
+
+.location h4{
+    display: inline-block;
+}
